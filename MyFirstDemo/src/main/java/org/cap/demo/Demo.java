@@ -6,6 +6,9 @@ public class Demo {
 		// TODO Auto-generated method stub
 		System.out.println("Demo for Git");
 		System.out.println("Full Stack Developer");
+		// Changes done after checkout
+		System.out.println("Full Stack Developer Test");
+		
 		
 	}
 
